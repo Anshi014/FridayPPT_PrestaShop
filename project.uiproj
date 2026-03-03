@@ -1,0 +1,6 @@
+{
+  "Name": "FridayPPTAutomation",
+  "ProjectType": "Library",
+  "Description": "Blank Library",
+  "MainFile": "NewActivity.xaml"
+}
