@@ -1,0 +1,14 @@
+﻿{
+  "Name": "t shirt(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "7YbdZ0TPAUieOIuAg0Nymw",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/7YbdZ0TPAUieOIuAg0Nymw",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/YAdOhrQc7kerMFkbk-G8Iw",
+  "Created": "2026-03-05T05:59:57.0948474Z",
+  "Updated": "2026-03-05T05:59:57.0948474Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

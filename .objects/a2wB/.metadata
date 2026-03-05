@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome PrestaShop Live Demo",
+  "Type": "App",
+  "Id": "a2wBeXwPs06GWYgqu2iUFQ",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/a2wBeXwPs06GWYgqu2iUFQ",
+  "Created": "2026-03-03T12:46:22.8438585Z",
+  "Updated": "2026-03-03T12:46:22.8438585Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

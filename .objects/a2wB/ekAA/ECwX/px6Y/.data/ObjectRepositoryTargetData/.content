@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uFgVof6970ifrd6AZadUPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" DesignTimeRectangle="8, 147, 1366, 581" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='PrestaShop Live Demo' role='document' /&gt;&lt;ctrl name='Frame of demo shop' role='document' /&gt;&lt;ctrl name='Login' role='document' /&gt;" Guid="174ffe11-f4fc-471d-9549-728ba2f5b2da" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='PrestaShop Live Demo - Google Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="73851667d889f0825228fa1053c1ac88.jpg" xmlns="">0UWnODN-xG06PNIlqKDxKFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "No account Create one …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Bi5VgOcN606eE0d3aTaSfQ",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/Bi5VgOcN606eE0d3aTaSfQ",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/YAdOhrQc7kerMFkbk-G8Iw",
+  "Created": "2026-03-03T12:52:13.9344597Z",
+  "Updated": "2026-03-03T12:52:13.9344597Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

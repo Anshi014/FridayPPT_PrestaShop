@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sign in",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PK-mEzvvAU26BJaL8J9tIg",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/PK-mEzvvAU26BJaL8J9tIg",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/YAdOhrQc7kerMFkbk-G8Iw",
+  "Created": "2026-03-03T12:46:49.0306495Z",
+  "Updated": "2026-03-03T12:46:49.0306495Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

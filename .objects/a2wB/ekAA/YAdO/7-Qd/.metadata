@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Albert Einstein",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7-QdYjiZkkWjYDPZrDLqDQ",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/7-QdYjiZkkWjYDPZrDLqDQ",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/YAdOhrQc7kerMFkbk-G8Iw",
+  "Created": "2026-03-03T13:16:41.488114Z",
+  "Updated": "2026-03-03T13:16:41.488114Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

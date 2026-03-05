@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jgxVUXqA8UyJgsq9IrdaJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="a3681700-a540-474a-b19f-248ed8858242" CvElementArea="237, 275, 73, 42" CvTextArea="254, 290, 37, 12" CvTextArgument="Never" CvType="Button" DesignTimeRectangle="239, 277, 68, 38" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Save password?' role='alert' /&gt;&lt;ctrl name='Never' role='push button' /&gt;" Guid="8b0e7436-5354-4da9-83af-3988cd6462c6" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Save password?' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8a55a3e5097320f564d0341f3fd80f4a.jpg" xmlns="">00UJf1iYP10ijyLlo89U_iQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
