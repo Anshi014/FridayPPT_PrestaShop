@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WJ7bjEkDlECuT91bwkVKng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="81ffff5f-737e-4754-b8c6-2f1850fb7600" DesignTimeRectangle="291, 884, 36, 24" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl tag='SPAN' class='custom-checkbox' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="d5ec3217-af1c-419c-bb81-b6084bd156da" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="81ffff5f-737e-4754-b8c6-2f1850fb7600" CvTextArea="325, 887, 107, 22" CvTextArgument="Ceramic (4)" CvType="Text" DesignTimeRectangle="327, 887, 231, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl tag='A' class='_gray-darker search-link js-search-link' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='                       Ceramic                                               (4)                                           ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Ceramic (4)' /&gt;" Guid="ee89dd24-5b28-4783-a836-b779983cc666" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8597fdf281b244a62e0d984a40843493.jpg" xmlns="">0qXP-0mCrMkO-CmI2KbWw7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7SSS-4p8lEWgLh0MLHLW_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="570ac959-aeeb-4328-80b7-8e4e8c0584af" DesignTimeRectangle="266, 611, 1387, 92" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl tag='A' class='wishlist-list-item-link' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='           My wishlist           (1)  share  ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='My wishlist (1)&amp;#xA;&amp;#xA;share' /&gt;" Guid="07e6439b-7280-44dd-b876-f52192b5dfca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="570ac959-aeeb-4328-80b7-8e4e8c0584af" CvElementArea="265, 609, 1392, 95" CvType="InputBox" DesignTimeRectangle="291, 643, 148, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl tag='P' class='wishlist-list-item-title' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='           My wishlist           ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='My wishlist (1)' /&gt;" Guid="dd97a993-2747-4b0d-84d7-47e6291e077a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="099c39d8ff750851ee10b0b99f117ac5.jpg" xmlns="">0dzWhGpHq0kWXQY4DWDLHSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

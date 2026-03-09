@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RD0-f6zS9EOBa7Dcyp5Wlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="a1feb982-25d0-4964-835e-d0eb6268f8bf" CvElementArea="1290, 261, 363, 55" CvType="InputBox" DesignTimeRectangle="1292, 262, 361, 52" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aria-label='Sort by selection' tag='BUTTON' type='' class='btn-unstyle select-title' aaname='     Relevance       ' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Relevance&amp;#xA;' /&gt;" Guid="7b308899-46a5-4d3b-8f58-6a0a753258f6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a1feb982-25d0-4964-835e-d0eb6268f8bf" CvTextArea="1205, 279, 67, 21" CvTextArgument="Sort by:" CvType="Text" DesignTimeRectangle="1067, 275, 225, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='js-product-list-top' tag='SPAN' type='' class='col-sm-3 col-md-5 hidden-sm-down sort-by' aaname='Sort by:' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Sort by:' /&gt;" Guid="ee55f98b-3cd2-4889-9f09-e2fe8d3c7fba" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="804680524bd158407942759627f9927c.jpg" xmlns="">0LEFObUCskEmpZ_BRYFXmkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

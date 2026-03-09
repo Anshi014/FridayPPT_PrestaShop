@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xQiXBguHNUal1W5_Zojx0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="6cccb1b2-82aa-4256-9d51-f870ec7b028f" DesignTimeRectangle="625, 534, 313, 313" ElementType="Icon" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl parentid='js-product-list' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='IMG' aaname='Hummingbird - Vector graphics' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="40ed85a1-71f9-4d93-ad7e-886d7fdea61c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6cccb1b2-82aa-4256-9d51-f870ec7b028f" CvTextArea="647, 870, 267, 22" CvTextArgument="Hummingbird - Vector Graphics" CvType="Text" DesignTimeRectangle="649, 867, 265, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl aaname='Hummingbird - Vector graphics' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' parentid='js-product-list' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='A' check:innerText='Hummingbird - Vector Graphics' /&gt;" Guid="14d7c7ca-5014-45f1-a654-578a3716f889" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="16d513fbdb5188af176cff91fc845b5a.jpg" xmlns="">0r6DHacoyuk6XdNfmAy5uxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

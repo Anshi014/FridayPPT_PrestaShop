@@ -1,0 +1,13 @@
+﻿{
+  "Name": " My alerts",
+  "Type": "Element",
+  "Id": "vvgEjIFzZ0GomeoYE5NRFg",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/vvgEjIFzZ0GomeoYE5NRFg",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/gdRWIY_Ca0mFgdcvy5rqpA",
+  "Created": "2026-03-06T10:25:33.2713246Z",
+  "Updated": "2026-03-06T10:25:33.2713246Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

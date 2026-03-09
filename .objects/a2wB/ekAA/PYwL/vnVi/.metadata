@@ -1,0 +1,14 @@
+﻿{
+  "Name": "  Accessories",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vnVimNE5MkC38rjH43Xm2w",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/vnVimNE5MkC38rjH43Xm2w",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/PYwLwB-8hUqtPNHpIMS13A",
+  "Created": "2026-03-05T12:00:24.4788103Z",
+  "Updated": "2026-03-05T12:00:24.4788103Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
