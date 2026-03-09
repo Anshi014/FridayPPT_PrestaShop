@@ -106,7 +106,7 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="SignIn" sap:VirtualizedContainerService.HintSize="961,2183" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="SignIn" sap:VirtualizedContainerService.HintSize="959,2183" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -129,7 +129,7 @@
                 <uix:TargetAnchorable BrowserURL="demo.prestashop.com" CVScreenId="b008b3aa-8b85-4e85-a97d-ef2f70064be2" ContentHash="C86XhTbncUeml1LeJAg5GQ" DesignTimeRectangle="1058, 210, 52, 22" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' /&gt;&lt;webctrl parentid='_desktop_user_info' tag='SPAN' /&gt;" Guid="d9387aee-f1f1-42a6-830f-b194345df513" InformativeScreenshot="fdce52dcca828cec00bbaa35e4cff425.jpg" Reference="Wl74oFLMWU6qtdAr1TfF8A/lAsdkEaMQkyqvNpG7Kz2vQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
               </uix:NClick.Target>
             </uix:NClick>
-            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Email'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="452,250" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="dd55dbe1-c4c9-4b75-b929-fec0ab943134" Version="V5">
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Email'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="452,250" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="dd55dbe1-c4c9-4b75-b929-fec0ab943134" Text="UserName" Version="V5">
               <uix:NTypeInto.Target>
                 <uix:TargetAnchorable BrowserURL="demo.prestashop.com" CVScreenId="88fdb1f8-bae4-4c62-b021-49228f200afb" ContentHash="bKSvHvH4IUqM2ZXcG3SsUg" CvElementArea="537, 417, 293, 40" CvType="InputBox" DesignTimeRectangle="539, 418, 289, 38" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='field-email' tag='INPUT' type='email' class='form-control' aaname='               Email           ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e419c023-48c1-4904-8522-aa2cb5131640" InformativeScreenshot="296fb8988aa081848d55dee8d76819d7.jpg" IsResponsive="True" Reference="Wl74oFLMWU6qtdAr1TfF8A/Ra62FTnN0UC1a990nA1osg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
                   <uix:TargetAnchorable.Anchors>
@@ -139,11 +139,6 @@
                   </uix:TargetAnchorable.Anchors>
                 </uix:TargetAnchorable>
               </uix:NTypeInto.Target>
-              <uix:NTypeInto.Text>
-                <InArgument x:TypeArguments="x:String">
-                  <CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_1">UserName</CSharpValue>
-                </InArgument>
-              </uix:NTypeInto.Text>
               <uix:NTypeInto.VerifyOptions>
                 <uix:VerifyExecutionTypeIntoOptions DisplayName="{x:Null}" Mode="Appears">
                   <uix:VerifyExecutionTypeIntoOptions.Retry>
@@ -155,21 +150,16 @@
                 </uix:VerifyExecutionTypeIntoOptions>
               </uix:NTypeInto.VerifyOptions>
             </uix:NTypeInto>
-            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Password'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="452,250" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="dd55dbe1-c4c9-4b75-b929-fec0ab943134" Version="V5">
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Password'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="452,250" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="dd55dbe1-c4c9-4b75-b929-fec0ab943134" Text="Password" Version="V5">
               <uix:NTypeInto.Target>
                 <uix:TargetAnchorable BrowserURL="demo.prestashop.com" CVScreenId="afd90d58-d42d-4af4-9160-6291ce525e41" ContentHash="fZn4H-rkr0CpGGe9A2F85w" DesignTimeRectangle="656, 472, 223, 39" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='field-password' tag='INPUT' type='password' class='form-control js-child-focus js-visible-password' aaname='               Password           ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d8a4afeb-463b-4d90-80c9-4a02720546c5" InformativeScreenshot="2c214b7505cca1795e353e788c582ccc.jpg" Reference="Wl74oFLMWU6qtdAr1TfF8A/-0AxN4v3GESFCdXgUNpqvg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                   <uix:TargetAnchorable.Anchors>
-                    <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                       <uix:Target CVScreenId="afd90d58-d42d-4af4-9160-6291ce525e41" CvTextArea="556, 484, 71, 14" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="482, 472, 159, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='               Password           ' tag='LABEL' type='' class='col-md-3 form-control-label required' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Password' /&gt;" Guid="effa66fc-d67b-4598-9321-07f375b19055" SearchSteps="FuzzySelector, CV" />
                     </scg:List>
                   </uix:TargetAnchorable.Anchors>
                 </uix:TargetAnchorable>
               </uix:NTypeInto.Target>
-              <uix:NTypeInto.Text>
-                <InArgument x:TypeArguments="x:String">
-                  <CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_2">Password</CSharpValue>
-                </InArgument>
-              </uix:NTypeInto.Text>
               <uix:NTypeInto.VerifyOptions>
                 <uix:VerifyExecutionTypeIntoOptions DisplayName="{x:Null}" Mode="Appears">
                   <uix:VerifyExecutionTypeIntoOptions.Retry>

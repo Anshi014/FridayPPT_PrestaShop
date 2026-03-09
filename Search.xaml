@@ -104,25 +104,25 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Search" sap:VirtualizedContainerService.HintSize="961,2475" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Search" sap:VirtualizedContainerService.HintSize="959,2527" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="522,2452" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence sap:VirtualizedContainerService.HintSize="522,2504" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome PrestaShop Live Demo" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="488,2369" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="81eadb63-d305-47db-8240-f655cef024e3" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome PrestaShop Live Demo" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="488,2421" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="81eadb63-d305-47db-8240-f655cef024e3" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="486,2175" sap2010:WorkflowViewState.IdRef="Sequence_3">
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="486,2227" sap2010:WorkflowViewState.IdRef="Sequence_3">
               <Sequence.Variables>
                 <Variable x:TypeArguments="x:String" Name="Product1" />
               </Sequence.Variables>
@@ -131,17 +131,12 @@
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 't shirt(1)'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="452,250" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="81eadb63-d305-47db-8240-f655cef024e3" Version="V5">
+              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 't shirt(1)'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="452,302" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="81eadb63-d305-47db-8240-f655cef024e3" Text="T shirt" Version="V5">
                 <uix:NTypeInto.Target>
                   <uix:TargetAnchorable BrowserURL="demo.prestashop.com" CVScreenId="ba5af7f8-8f52-4140-ac1f-2dff5fde1f49" ContentHash="n9-feNkN3kGvJp3r0j6xew" DesignTimeRectangle="1092, 217, 264, 40" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="71ab8b56-dc2a-4dff-882f-8e36625370b1" InformativeScreenshot="c9a1e6b3315b785a5b1d2d31499d40a1.jpg" Reference="Wl74oFLMWU6qtdAr1TfF8A/7YbdZ0TPAUieOIuAg0Nymw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                 </uix:NTypeInto.Target>
-                <uix:NTypeInto.Text>
-                  <InArgument x:TypeArguments="x:String">
-                    <CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_3">Product1</CSharpValue>
-                  </InArgument>
-                </uix:NTypeInto.Text>
                 <uix:NTypeInto.VerifyOptions>
-                  <uix:VerifyExecutionTypeIntoOptions DisplayName="{x:Null}" ExpectedText="[Nothing]" Mode="Appears">
+                  <uix:VerifyExecutionTypeIntoOptions DisplayName="{x:Null}" ExpectedText="T shirt" Mode="Appears">
                     <uix:VerifyExecutionTypeIntoOptions.Retry>
                       <InArgument x:TypeArguments="x:Boolean" />
                     </uix:VerifyExecutionTypeIntoOptions.Retry>
@@ -156,7 +151,7 @@
                 <uix:NClick.Target>
                   <uix:TargetAnchorable BrowserURL="demo.prestashop.com" CVScreenId="11849a13-a6c5-4e96-b6a5-a29c1931c88f" ContentHash="lDxYa-KBcE-npxQlhRXoRg" DesignTimeRectangle="248, 435, 250, 250" ElementType="Icon" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='js-product-list' tag='IMG' type='' class='' aaname='Hummingbird printed t-shirt' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="2e0ff3f5-376e-4199-bd3c-bb7e8ad4ee16" InformativeScreenshot="69e1ce8cec0a28602a2d18a00f578a82.jpg" Reference="Wl74oFLMWU6qtdAr1TfF8A/oILOeA2IDUeNCkf4klQc7g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                         <uix:Target CVScreenId="11849a13-a6c5-4e96-b6a5-a29c1931c88f" CvTextArea="369, 703, 51, 14" CvTextArgument="Printed" CvType="Text" DesignTimeRectangle="319, 695, 109, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='                Quick view             ' parentid='js-product-list' tag='A' type='' class='quick-view js-quick-view' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText=' Quick view' /&gt;" Guid="8e219e88-8199-4270-bbe0-0557357f9a0b" SearchSteps="FuzzySelector, CV" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
