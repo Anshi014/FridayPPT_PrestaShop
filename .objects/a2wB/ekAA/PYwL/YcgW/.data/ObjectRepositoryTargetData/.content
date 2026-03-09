@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gNRiQUTgKUS7LePMr8yqqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="d1a6e464-e44f-47e8-a0d7-8080f16cecad" DesignTimeRectangle="1338, 425, 312, 313" ElementType="Icon" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl parentid='js-product-list' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' src='https://smiling-scale.demo.prestashop.com/20-home_default/hummingbird-notebook.jpg' matching:src='fuzzy' fuzzylevel:src='0.0' tag='IMG' aaname='Mountain fox notebook' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="17223c9d-e452-4a09-8218-006be16084c9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1338, 737, 312, 93" FuzzySelectorArgument="&lt;webctrl id='framelive' matching:id='fuzzy' fuzzylevel:id='0.0' tag='IFRAME' /&gt;&lt;webctrl class='product-description' matching:class='fuzzy' fuzzylevel:class='0.0' parentid='js-product-list' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='DIV' check:innerText='Hummingbird Notebook&amp;#xA;€15.48' /&gt;" Guid="379f8536-6ea0-4a15-887a-e37060f5adbf" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="db082d307f1dfc35ac2576c5ae144ed9.jpg" xmlns="">0sPUnvEgdv0SgjFsPcTfibw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

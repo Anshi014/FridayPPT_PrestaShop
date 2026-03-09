@@ -1,0 +1,13 @@
+﻿{
+  "Name": "close",
+  "Type": "Element",
+  "Id": "42UG__IhTEGzFoJkXMR-Dg",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/42UG__IhTEGzFoJkXMR-Dg",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/VG8D_1febUikFsaSC7r7LA",
+  "Created": "2026-03-06T07:44:20.2663735Z",
+  "Updated": "2026-03-06T07:44:20.2663735Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

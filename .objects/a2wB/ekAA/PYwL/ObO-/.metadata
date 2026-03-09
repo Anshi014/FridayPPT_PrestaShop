@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DIV slider-range_51577",
+  "Type": "Element",
+  "Id": "ObO-3X0c10KogAuVPffqug",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/ObO-3X0c10KogAuVPffqug",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/PYwLwB-8hUqtPNHpIMS13A",
+  "Created": "2026-03-05T12:51:17.9216884Z",
+  "Updated": "2026-03-05T12:51:17.9216884Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

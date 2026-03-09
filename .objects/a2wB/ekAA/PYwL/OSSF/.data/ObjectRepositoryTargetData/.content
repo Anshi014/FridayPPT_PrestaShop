@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DvrGnnO3oEKKXHYa-zd6vQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" DesignTimeRectangle="291, 628, 269, 9" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' /&gt;&lt;webctrl id='slider-range_13851' /&gt;" Guid="d4db2575-5224-4ab7-8037-2cdd938c28c2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a2780d8c67e9a0090d0dce47386aa8cf.jpg" xmlns="">0sqhNkNBco0e9ruvxP3UTMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">DragAndDrop</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

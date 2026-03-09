@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Home - File Explorer",
+  "Type": "App",
+  "Id": "fRKMklJSAEqFBTxFMnzCoQ",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/fRKMklJSAEqFBTxFMnzCoQ",
+  "Created": "2026-03-06T09:45:49.4226849Z",
+  "Updated": "2026-03-06T09:45:49.4226849Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

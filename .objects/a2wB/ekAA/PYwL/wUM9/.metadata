@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Stationery",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wUM9Egje1UuATrHrH3kx8g",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/wUM9Egje1UuATrHrH3kx8g",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/PYwLwB-8hUqtPNHpIMS13A",
+  "Created": "2026-03-05T12:09:15.1842308Z",
+  "Updated": "2026-03-05T12:09:15.1842308Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

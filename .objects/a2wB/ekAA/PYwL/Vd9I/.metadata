@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Price, low to high",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Vd9IDqt_aEmdyynDtYYmeA",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/Vd9IDqt_aEmdyynDtYYmeA",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/PYwLwB-8hUqtPNHpIMS13A",
+  "Created": "2026-03-06T05:10:05.9996046Z",
+  "Updated": "2026-03-06T05:10:05.9996046Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

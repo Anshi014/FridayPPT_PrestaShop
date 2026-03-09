@@ -1,0 +1,14 @@
+﻿{
+  "Name": "abc k",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "jmPwpcX2bkSTKIvmu9yiaQ",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/jmPwpcX2bkSTKIvmu9yiaQ",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/gdRWIY_Ca0mFgdcvy5rqpA",
+  "Created": "2026-03-06T10:25:02.899109Z",
+  "Updated": "2026-03-06T10:25:02.899109Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

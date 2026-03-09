@@ -1,0 +1,14 @@
+﻿{
+  "Name": "GET MY DATA TO CSV",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "lJ66ogS4R0aseaYgqtsZmQ",
+  "Reference": "Wl74oFLMWU6qtdAr1TfF8A/lJ66ogS4R0aseaYgqtsZmQ",
+  "ParentRef": "Wl74oFLMWU6qtdAr1TfF8A/7nos73humEObZmi5F5qx9g",
+  "Created": "2026-03-06T10:11:36.9163394Z",
+  "Updated": "2026-03-06T10:11:36.9163394Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

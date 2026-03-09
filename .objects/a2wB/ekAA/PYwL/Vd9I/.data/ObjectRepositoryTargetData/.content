@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kJj8mOf7KkWlUW8r2Z2NUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.prestashop.com" CVScreenId="04f800eb-d6f4-4a87-af63-6250232dc1da" CvTextArea="1316, 717, 162, 23" CvTextArgument="Price, low to high" CvType="Text" DesignTimeRectangle="1292, 702, 337, 50" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='framelive' tag='IFRAME' /&gt;&lt;webctrl aaname='         Price, low to high       ' parentid='js-product-list-top' tag='A' /&gt;" Guid="550eb88d-871a-4ad0-bc6f-f2a3f2056d1d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PrestaShop Live Demo' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="486e5b01af5946a8a84150909aad463a.jpg" xmlns="">0_FDDpoLYZk2cLlWVxilKlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
